@@ -1,211 +1,151 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "6efc8b7e-b8d4-4a66-8cfb-b31eead5b648": {
+      "type": "slideshow",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "template--17108953366849__6efc8b7e-b8d4-4a66-8cfb-b31eead5b648-167089159620e9f9a6-0": {
+          "type": "slide",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
+            "image": "shopify:\/\/shop_images\/camera_protection_663b3ea5-e6b3-48f3-a24a-4bebc6e27f6c.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Buy",
+            "link": "shopify:\/\/products\/beerow-carbon-fiber-ultra-thin-case-for-iphone-14-series",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
           }
         },
-        "text": {
-          "type": "text",
+        "template--17108953366849__6efc8b7e-b8d4-4a66-8cfb-b31eead5b648-167089159620e9f9a6-1": {
+          "type": "slide",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "image": "shopify:\/\/shop_images\/screen_protect2.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Buy",
+            "link": "shopify:\/\/products\/beerow-carbon-fiber-ultra-thin-case-for-iphone-14-series",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text",
-        "button"
+        "template--17108953366849__6efc8b7e-b8d4-4a66-8cfb-b31eead5b648-167089159620e9f9a6-0",
+        "template--17108953366849__6efc8b7e-b8d4-4a66-8cfb-b31eead5b648-167089159620e9f9a6-1"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
-    "rich_text": {
-      "type": "rich-text",
+    "8eef7c84-96f5-40d2-b516-3000cdf5dcfd": {
+      "type": "image-with-text",
       "blocks": {
-        "heading": {
+        "template--17108953366849__8eef7c84-96f5-40d2-b516-3000cdf5dcfd-167089459970b1136e-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand</p>",
+            "heading": "As Thin As A Credit Card",
             "heading_size": "h1"
           }
         },
-        "text": {
+        "template--17108953366849__8eef7c84-96f5-40d2-b516-3000cdf5dcfd-167089459970b1136e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>The Beerow iPhone 14 Pro case, designed with MagSafe compatible, is 0.6mm thin, and with a minimum weight of 1. Raised edge provides screen protection and wrap around provides camera lens protection.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17108953366849__8eef7c84-96f5-40d2-b516-3000cdf5dcfd-167089459970b1136e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/beerow-carbon-fiber-ultra-thin-case-for-iphone-14-series"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "template--17108953366849__8eef7c84-96f5-40d2-b516-3000cdf5dcfd-167089459970b1136e-0",
+        "template--17108953366849__8eef7c84-96f5-40d2-b516-3000cdf5dcfd-167089459970b1136e-1",
+        "template--17108953366849__8eef7c84-96f5-40d2-b516-3000cdf5dcfd-167089459970b1136e-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/overlay.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "heading_size": "h1",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
+    "49c6d6d0-88da-4f7c-ac9d-dc854187e7b8": {
+      "type": "image-with-text",
       "blocks": {
-        "column1": {
-          "type": "column",
+        "template--17108953366849__49c6d6d0-88da-4f7c-ac9d-dc854187e7b8-167089159606b2774a-0": {
+          "type": "heading",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "heading": "Ultra Light & Super Slim",
+            "heading_size": "h1"
           }
         },
-        "column2": {
-          "type": "column",
+        "template--17108953366849__49c6d6d0-88da-4f7c-ac9d-dc854187e7b8-167089159606b2774a-1": {
+          "type": "text",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Thinnest and lightest Kevlar Aramid Fiber Phone Case for Pixel 7 and Pixel 7 Pro, 0.4 oz, 0.02 in thin.<\/p>",
+            "text_style": "body"
           }
         },
-        "column3": {
-          "type": "column",
+        "template--17108953366849__49c6d6d0-88da-4f7c-ac9d-dc854187e7b8-167089159606b2774a-2": {
+          "type": "button",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/beerow-carbon-fiber-ultra-thin-case-for-pixel-7-series"
           }
         }
       },
       "block_order": [
-        "column1",
-        "column2",
-        "column3"
+        "template--17108953366849__49c6d6d0-88da-4f7c-ac9d-dc854187e7b8-167089159606b2774a-0",
+        "template--17108953366849__49c6d6d0-88da-4f7c-ac9d-dc854187e7b8-167089159606b2774a-1",
+        "template--17108953366849__49c6d6d0-88da-4f7c-ac9d-dc854187e7b8-167089159606b2774a-2"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false,
+        "image": "shopify:\/\/shop_images\/main.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
-    "image_banner",
-    "rich_text",
-    "featured_collection",
-    "collage",
-    "video",
-    "multicolumn"
+    "6efc8b7e-b8d4-4a66-8cfb-b31eead5b648",
+    "8eef7c84-96f5-40d2-b516-3000cdf5dcfd",
+    "49c6d6d0-88da-4f7c-ac9d-dc854187e7b8"
   ]
 }
