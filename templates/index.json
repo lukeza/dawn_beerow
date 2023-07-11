@@ -6,14 +6,14 @@
         "template--17108953366849__6efc8b7e-b8d4-4a66-8cfb-b31eead5b648-167089159620e9f9a6-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/aramid_fiberai-01.jpg",
+            "image": "shopify:\/\/shop_images\/aramid_fiberai_wide-01.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "Buy",
             "link": "shopify:\/\/products\/beerow-carbon-fiber-ultra-thin-case-for-iphone-14-series",
             "button_style_secondary": false,
-            "box_align": "bottom-left",
+            "box_align": "bottom-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
@@ -23,6 +23,7 @@
         },
         "template--17108953366849__6efc8b7e-b8d4-4a66-8cfb-b31eead5b648-167089159620e9f9a6-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/screen_protect2.jpg",
             "heading": "",
